@@ -1,6 +1,8 @@
 
 ## Hey, it's Tauqeer Ahmad, a learning lad and a tech evangelist 
 
+![roles](https://www.linkpicture.com/q/ezgif-5-c033c7a434.gif)
+
 - Currently computer science undergrad. 
 - Learning more on Web-Development 
 - Using MERN as the learning stage. 
