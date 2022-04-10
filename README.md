@@ -2,7 +2,7 @@
 ## Hey, it's Tauqeer Ahmad, a learning lad and a tech evangelist 
 
 <p align="center">
-![roles](https://www.linkpicture.com/q/ezgif-5-c033c7a434.gif)
+  <img src="https://www.linkpicture.com/q/ezgif-5-c033c7a434.gif?raw=true" alt="Roles"/>
 </p>
 
 - Currently computer science undergrad. 
