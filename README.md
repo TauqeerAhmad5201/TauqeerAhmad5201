@@ -1,16 +1,16 @@
 
-## Hey, it's Tauqeer Ahmad, a learning lad and a tech evangelist 
+## Hey 👋, it's Tauqeer Ahmad, a learning lad and a tech evangelist 
 
 <p align="center">
   <img src="https://www.linkpicture.com/q/ezgif-5-c033c7a434.gif?raw=true" alt="Roles"/>
 </p>
 
-- Currently computer science undergrad. 
-- Learning more on Web-Development 
-- Using MERN as the learning stage. 
-- Fascinated about community 
-- Do talk about Microprocessors and Microcontrollers 
-- Looking to collaborate with developers 
+- 👨‍💻 Currently computer science undergrad. 
+- 🌱 Learning more on Web-Development 
+- 🌐 Using MERN as the learning stage. 
+- 👯 Fascinated about community 
+- 💻 Do talk about Microprocessors and Microcontrollers 
+- 🤝 Looking to collaborate with developers 
 
 ## 🔗 Links
 
@@ -41,8 +41,7 @@
 ## 🛠 Skills - (on development)
 Javascript, HTML, CSS
 
-## Blogs
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tauqeerahmad5201/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/tauqeerahmad5201/0" alt="Recent Article 0">
-
+## Tools using 
+Arduino, VS Code, Linux, Postman, Git
 
 
