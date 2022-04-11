@@ -8,7 +8,7 @@
 - 👨‍💻 Currently computer science undergrad. 
 - 🌱 Learning more on Web-Development 
 - 🌐 Using MERN as the learning stage. 
-- 👯 Fascinated about community 
+- 👥 Fascinated about communities 
 - 💻 Do talk about Microprocessors and Microcontrollers 
 - 🤝 Looking to collaborate with developers 
 
