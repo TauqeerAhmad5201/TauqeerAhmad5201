@@ -4,8 +4,6 @@
 
 <h3 align="center">React.js Developer and DevOps Learner from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TauqeerAhmad5201&color=orange" alt="induviduality" /> </p>
-
 ## What I'm upto
 
 - 🌐 Learning more about in MERN Stack. 
