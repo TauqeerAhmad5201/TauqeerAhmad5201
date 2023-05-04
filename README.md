@@ -18,8 +18,7 @@
  <p align="left">
   <a href="https://www.linkedin.com/in/tauqeerahmad5201/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" align="center" alt="LinkedIn" height=40 /></a>
   <a href="https://twitter.com/_TauqeerAhmad" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" height=38 /></a>
-  <a href="https://dev.to/_tauqeerahmad" target="_blank"><img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" align="center" alt="dev.to page" height=40 /></a>
-  <a href="https://developers.google.com/profile/u/tauqeerahmad5201" target="_blank"><img src="https://www.gstatic.com/devrel-devsite/prod/v96fe7c72c7b00a90a6621d124258058ede00fa09bdb0b7e43bfa676d03923593/developers/images/touchicon-180.png" align="center" alt="google developers" height=40 /></a>
+  <a href="https://tauqeerahmad.hashnode.dev/" target="_blank"><img src="https://camo.githubusercontent.com/4903b1622b93d6b463a65bfd79c818140334fb599ee94d2c3143a3ba58683138/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f486173686e6f64652d3239363246463f7374796c653d666f722d7468652d6261646765266c6f676f3d686173686e6f6465266c6f676f436f6c6f723d7768697465" align="center" alt="hashnode" height=40  width="80" /></a>
 </p>
 
 ### I'm working with 
