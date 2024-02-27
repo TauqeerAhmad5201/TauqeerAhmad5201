@@ -11,7 +11,7 @@
 - 🤝 Looking to help and collaboration with **Community Building, Code Projects & Open Source** :octocat:
 - 💻 Do talk about Operations Related work with me. 
 - 👨‍💻 Loves to manage and setting up UNIX System
-- 🌐 Had some hands-on on MERN Stack.
+- 🌐 Prev on MERN Stack.
 
 ### Connect with me on: 
 
