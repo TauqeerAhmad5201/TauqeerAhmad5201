@@ -1,17 +1,17 @@
 ![Header](https://github.com/TauqeerAhmad5201/TauqeerAhmad5201/blob/main/Header.jpg)
 
-<h1 align="center"><img src="https://c.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" width=48> Hey! I'm Tauqeer Ahmad</h1>
+<h1 align="center"> Hey! I'm Tauqeer Ahmad</h1>
 
-<h3 align="center">React.js Developer and DevOps Learner from India</h3>
+<h3 align="center">Automating All the Things</h3>
 
 ## What I'm upto
-
-- 🌐 Learning more about in MERN Stack. 
+ 
 - 👨‍💻 Curating on Developer Tools and DevOps as well. 
-- 👥 Fascinated about tech communities. 
+- 👥 Fascinated about building tech communities. 
 - 🤝 Looking to help and collaboration with **Community Building, Code Projects & Open Source** :octocat:
-- 💻 Do talk about Microprocessors and Microcontrollers 
-- 👨‍💻 Loves to manage and setting up UNIX System 
+- 💻 Do talk about Operations Related work with me. 
+- 👨‍💻 Loves to manage and setting up UNIX System
+- 🌐 Learning more about in MERN Stack.
 
 ### Connect with me on: 
 
