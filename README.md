@@ -16,7 +16,7 @@
 ### Connect with me on: 
 
  <p align="left">
-  <a href="https://www.linkedin.com/in/tauqeerahmad5201/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" align="center" alt="LinkedIn" height=40 /></a>
+  <a href="https://www.linkedin.com/in/tauqeerahmad5201/" target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" align="center" alt="LinkedIn" height=40 /></a>
   <a href="https://twitter.com/_TauqeerAhmad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ali-han/Twitter-x-icon-logo/main/dark/Twitter%20X%20Icon.svg" alt="twitter" height=38 /></a>
   <a href="https://tauqeerahmad.hashnode.dev/" target="_blank"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/hashnode.svg" align="center" alt="hashnode" height=40  width="80" /></a>
 </p>
